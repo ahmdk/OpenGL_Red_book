@@ -1,3 +1,15 @@
+How to Run using Visual Studio 2019
+===================================
+* Open the `visual studio solution\vermilion9.sln` solution 
+* Go to `Build &rarr; Build Soultion` or press `F7`
+* Select an executable file to run under the `bin` folder
+
+Example outputs
+===============
+<img src="https://github.com/ahmdk/OpenGL_Red_book/blob/master/bin/media/compute_shader_example.png" width="400" height="300"> | <img src="https://github.com/ahmdk/OpenGL_Red_book/blob/master/bin/media/cubemap.png" width="400" height="300">
+------------ | -------------
+<img src="https://github.com/ahmdk/OpenGL_Red_book/blob/master/bin/media/instancing.png" width="400" height="300"> | <img src="https://github.com/ahmdk/OpenGL_Red_book/blob/master/bin/media/multitexture.png" width="400" height="300">
+
 OpenGL Red Book Example Code
 ============================
 
