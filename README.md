@@ -1,7 +1,7 @@
 How to Run using Visual Studio 2019
 ===================================
 * Open the `visual studio solution\vermilion9.sln` solution 
-* Go to `Build &rarr; Build Soultion` or press `F7`
+* Go to `Build` &rarr; `Build Soultion` or press `F7`
 * Select an executable file to run under the `bin` folder
 
 Example outputs
